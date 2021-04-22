@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @minatojoho
+- 👀 I’m interested in:
+  - Golang
+  - TypeScript
+  - Docker (Container Service)
+- 🌱 I’m currently learning ...
+  - React
+  - Next.js
