@@ -5,4 +5,5 @@
   - Docker (Container Service)
 - 🌱 I’m currently learning ...
   - React
-  - Next.js
+  - Nuxt.js
+  - GraphQL
